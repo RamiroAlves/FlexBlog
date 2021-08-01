@@ -6,7 +6,7 @@ O site FlexBlog é um projeto criado, a partir do curso **CSS FlexBox** da [Orig
 ## Sobre o site
 O site é do tipo One Page e contendo apenas o front-end e conteúdo ilustrativo, divido em 4 seções:
 - Sobre
-- rodutos
+- Produtos
 - Preço
 - Qualidade
 
